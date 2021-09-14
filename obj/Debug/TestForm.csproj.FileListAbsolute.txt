@@ -1,0 +1,10 @@
+E:\App\MVS App\TestForm\bin\Debug\TestForm.exe.config
+E:\App\MVS App\TestForm\bin\Debug\TestForm.exe
+E:\App\MVS App\TestForm\bin\Debug\TestForm.pdb
+E:\App\MVS App\TestForm\obj\Debug\TestForm.csproj.AssemblyReference.cache
+E:\App\MVS App\TestForm\obj\Debug\TestForm.Kalkulator.resources
+E:\App\MVS App\TestForm\obj\Debug\TestForm.Properties.Resources.resources
+E:\App\MVS App\TestForm\obj\Debug\TestForm.csproj.GenerateResource.cache
+E:\App\MVS App\TestForm\obj\Debug\TestForm.csproj.CoreCompileInputs.cache
+E:\App\MVS App\TestForm\obj\Debug\TestForm.exe
+E:\App\MVS App\TestForm\obj\Debug\TestForm.pdb
